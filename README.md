@@ -1,1 +1,1 @@
-Landing page image Gallery using Flexbox
+Landing page image gallery using Flexbox

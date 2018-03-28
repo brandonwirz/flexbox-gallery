@@ -1,0 +1,47 @@
+body{
+  margin:0;
+  padding:0;
+}
+.nav-bar{
+  height:50px;
+  background-color: black;
+  max-width: 100%;
+}
+header{
+  background-color: lightgrey;
+  height:350px;
+  max-width: 100%;
+  margin-bottom: 50px;
+}
+.flex-container{
+  margin:0 auto;
+  display:flex;
+  flex-wrap:wrap;
+  background-color: none;
+  justify-content: center;
+  width:70%;
+}
+
+.flex-container > div{
+  background-color: #ffffff;
+  width:150px;
+  margin:10px;
+  text-align: center;
+  line-height: 125px;
+  font-size: 30px;
+  border: 1px solid grey;
+}
+
+.lower-bar{
+  height:120px;
+  background-color: black;
+  max-width: 100%;
+  margin-top:50px;
+}
+footer{
+  background-color: lightgrey;
+  height:40px;
+  max-width: 100%;
+  margin-top:50px;
+
+}
